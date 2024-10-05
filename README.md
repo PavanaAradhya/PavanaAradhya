@@ -1,4 +1,4 @@
-![MasterHead](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)
+![MasterHead]([https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263))
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Pavana+C..;Computer+Science+(AI)+Student;Learning+In+MIT..;Nice+To+Meet+You+....&center=true"></a></p>
