@@ -1,4 +1,4 @@
-![Your Alt Text](![image](https://github.com/user-attachments/assets/59c0aa9a-5506-462f-8ef3-06f9b048c823)
+![image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcomputer-girl-gifs&psig=AOvVaw2ILHkKCurjmMMLWfWX5U7f&ust=1728216909786000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiQvuub94gDFQAAAAAdAAAAABAS))
 )
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
