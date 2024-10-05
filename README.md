@@ -1,4 +1,5 @@
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+![Your Alt Text](![image](https://github.com/user-attachments/assets/59c0aa9a-5506-462f-8ef3-06f9b048c823)
+)
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Pavana+C..;Computer+Science+(AI)+Student;Learning+In+MIT..;Nice+To+Meet+You+....&center=true"></a></p>
