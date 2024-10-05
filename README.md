@@ -9,11 +9,11 @@
 - 📫 How to reach me **pavanaaradhya25@gmail.com**
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PavanaAradhya&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanaAradhya&layout=compact&&langs_count=8"/>
 </div>
 
-[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/MaksymRudnyi)
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/PavanaAradhya)
 
 
 <h3 align="left"># 🖥️ Technical Skills:</h3>
