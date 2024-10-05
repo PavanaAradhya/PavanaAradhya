@@ -1,5 +1,4 @@
-![image]((https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcomputer-girl-gifs&psig=AOvVaw2ILHkKCurjmMMLWfWX5U7f&ust=1728216909786000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIiQvuub94gDFQAAAAAdAAAAABAS))
-)
+
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Pavana+C..;Computer+Science+(AI)+Student;Learning+In+MIT..;Nice+To+Meet+You+....&center=true"></a></p>
