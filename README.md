@@ -1,10 +1,10 @@
-
+[![MasterHead](https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif)
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Pavana+C..;Computer+Science+(AI)+Student;Learning+In+MIT..;Nice+To+Meet+You+....&center=true"></a></p>
-📚 Currently learning Cyber Security <br/>
 
-- 📫 How to reach me **pavanaaradhya25@gmail.com**
+📚 Currently learning Cyber Security <br/>
+📫 How to reach me **pavanaaradhya25@gmail.com**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PavanaAradhya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
