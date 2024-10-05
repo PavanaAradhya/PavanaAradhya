@@ -5,7 +5,7 @@
 
 <br>📚 Currently learning Cyber Security <br/>
 <br>🏫 Completed my Diploma in Vidyavardhaka Polytechnic,Mysore</br>
-<br>📚 Currently studying in Maharaja Institute of Technology Mysore</br>
+<br>📚 Currently studying Engineering in Maharaja Institute of Technology Mysore</br>
 <br>📧 How to reach me **pavanaaradhya25@gmail.com**</br>
 
 ## 🏆 GitHub Trophies
