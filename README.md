@@ -4,9 +4,10 @@
     
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 🌱 I’m currently learning **Cyber Security**
+📚 Currently learning <br/>
 
 - 📫 How to reach me **pavanaaradhya25@gmail.com**
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PavanaAradhya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
