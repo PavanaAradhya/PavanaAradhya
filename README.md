@@ -1,4 +1,3 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <!DOCTYPE html>
 <html lang="en">
 <head>
